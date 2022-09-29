@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
+[Prediction of user interest using bank data](https://github.com/Hwarriach/Portugal_Banking_Logistic_Regression.git)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -37,7 +37,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/maielhadad99/Knn_Nb_Project.git)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Hwarriach/Knn_Nb_Project.git)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -45,7 +45,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 99% .
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
@@ -53,7 +53,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/Hwarriach/Ensemble_Project.git)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
@@ -61,7 +61,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 99% .
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 98% .
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
@@ -69,7 +69,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The San Francisco Project on Clustering](https://github.com/maielhadad99/Clustring_Project.git)
+[The San Francisco Project on Clustering](https://github.com/Hwarriach/KMeans.git)
 
 <img src="images/clusters.png?raw=true"/>
 
@@ -81,11 +81,11 @@ The classification goal is to predict if the client will subscribe a term deposi
 **Quantifiable result:** We could Classify 3 clusters from the dataset .
 
 - Used the  K means cluster algorithm to classify the number of clusters the can be formed from the data
-- Compared predictive performance by using  a elbow method to the data
+- Compared predictive performance by using an elbow method to the data
 
 ***
 
-[Amazon Fine Food Analysis using NLP](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
+[Amazon Fine Food Analysis using NLP](https://github.com/Hwarriach/NLP_Project.git)
 
 <img src="images/amazon.jpeg?raw=true"/>
 
@@ -95,14 +95,14 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
 
-[**AUC** Score of 88%](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes/blob/main/NLP_Amazon_Fine_Food_Reviews_Analysis_Naive_Bayes.ipynb) .
+[**AUC** Score of 95%].
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
 - A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
 
 ***
 
-[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
+[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/Hwarriach/Deep_Neural_Network.git)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
@@ -112,7 +112,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <b>Quantifiable Results:</b>
 
-  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Loss = 0.017 - 0.9947 = Final Model Eval = 99%
   - Load the data
   - Initial data indagation
   - Initial EDA
