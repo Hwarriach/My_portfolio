@@ -125,16 +125,17 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying the people having diabetes ](https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
+[Suicide Rate Prediction ](https://github.com/Hwarriach/Suicide_Rates_Prediction.git)
 
 <img src="images/Diabetes.jpg?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,RandomForest,KNN
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Linear Regression, RandomForest
 
-**Project Objective:** In this project we are provided with multiple instances of diabetes parameters and we are also provided with their classification as positive or negative . We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+**Project Objective:** In this project we are provided with a datatset containing information about suicide rates from 1985 to 2016. It includes data from multiple countries, GDP, population, age, etc. We have to analyze the data to find the strongest correlations and create a model to predict the no. of suicides from the given data, for the given country for the given years.
 
-**Quantifiable result:** We could Classify the  diabetes parameters as positive or negative with an accuracy of 84.5% .
+**Quantifiable result:** We could predict the  suicide rate with an accuracy of 97.8% .
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as positive or negative based on various Diabetes parameters
-- Compared predictive performance by fitting a RandomForest model to the data
-- Selected best model based on train and test performance
+- Used Linear Regression to predict the suicide rate
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a Random Forest model with high prediction accuracy
