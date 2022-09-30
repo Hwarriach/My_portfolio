@@ -127,7 +127,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Suicide Rate Prediction ](https://github.com/Hwarriach/Suicide_Rates_Prediction.git)
 
-<img src="images/Diabetes.jpg?raw=true"/>
+<img src="images/suicide.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Linear Regression, RandomForest
 
