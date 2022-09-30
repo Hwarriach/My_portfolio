@@ -4,6 +4,63 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Suicide Rate Prediction ](https://github.com/Hwarriach/Suicide_Rates_Prediction.git)
+
+<img src="images/suicide.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Linear Regression, RandomForest
+
+**Project Objective:** In this project we are provided with a datatset containing information about suicide rates from 1985 to 2016. It includes data from multiple countries, GDP, population, age, etc. We have to analyze the data to find the strongest correlations and create a model to predict the no. of suicides from the given data, for the given country for the given years.
+
+**Quantifiable result:** We could predict the  suicide rate with an accuracy of 97.8% .
+
+- Used Linear Regression to predict the suicide rate
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a Random Forest model with high prediction accuracy
+
+***
+
+[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/Hwarriach/Deep_Neural_Network.git)
+
+ <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
+
+<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
+
+<b>Quantifiable Results:</b>
+
+  - Loss = 0.017 - 0.9947 = Final Model Eval = 99%
+  - Load the data
+  - Initial data indagation
+  - Initial EDA
+  - Data Prepping
+  - Model contruction
+  - Model eval
+  - Model eval metrics
+  - Improved the model
+  - Improved the depth of model
+
+***
+
+[Amazon Fine Food Analysis using NLP](https://github.com/Hwarriach/NLP_Project.git)
+
+<img src="images/amazon.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, TfidVectorizer
+
+**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
+
+**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
+
+[**AUC** Score of 95%].
+- Given a review, it is determined whether the review is positive or negative.
+- Used NLP for this approach.
+- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
+
+***
+
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/Hwarriach/Seol_Bike_Linear_Regression_Project.git)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
@@ -83,59 +140,14 @@ The classification goal is to predict if the client will subscribe a term deposi
 - Used the  K means cluster algorithm to classify the number of clusters the can be formed from the data
 - Compared predictive performance by using an elbow method to the data
 
-***
 
-[Amazon Fine Food Analysis using NLP](https://github.com/Hwarriach/NLP_Project.git)
 
-<img src="images/amazon.jpeg?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, TfidVectorizer
 
-**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
 
-**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
 
-[**AUC** Score of 95%].
-- Given a review, it is determined whether the review is positive or negative.
-- Used NLP for this approach.
-- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
 
-***
 
-[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/Hwarriach/Deep_Neural_Network.git)
 
- <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
-<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
-
-<b>Quantifiable Results:</b>
-
-  - Loss = 0.017 - 0.9947 = Final Model Eval = 99%
-  - Load the data
-  - Initial data indagation
-  - Initial EDA
-  - Data Prepping
-  - Model contruction
-  - Model eval
-  - Model eval metrics
-  - Improved the model
-  - Improved the depth of model
-
-***
-
-[Suicide Rate Prediction ](https://github.com/Hwarriach/Suicide_Rates_Prediction.git)
-
-<img src="images/suicide.jpg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Linear Regression, RandomForest
-
-**Project Objective:** In this project we are provided with a datatset containing information about suicide rates from 1985 to 2016. It includes data from multiple countries, GDP, population, age, etc. We have to analyze the data to find the strongest correlations and create a model to predict the no. of suicides from the given data, for the given country for the given years.
-
-**Quantifiable result:** We could predict the  suicide rate with an accuracy of 97.8% .
-
-- Used Linear Regression to predict the suicide rate
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a Random Forest model with high prediction accuracy
