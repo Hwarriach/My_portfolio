@@ -44,6 +44,23 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[World Happiness Score Prediction ](https://github.com/Hwarriach/Suicide_Rates_Prediction.git)
+
+<img src="images/suicide.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Linear Regression, Auto ML, ARD Regression
+
+**Project Objective:** In this project we are provided with a datatset containing information about world happiness scores from 2015 to 2019. It includes data from multiple countries, GDP, family, life expectancy, etc. We have to analyze the data to find the strongest correlations and create a model to predict the happiness scores from the given data.
+
+**Quantifiable result:** We could predict the happiness score with an r2 score of 91.4% .
+
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Used Linear Regression to predict the happiness score
+- Used Auto ML to find the best regression model and hyper parameters
+- Fit a ARD Regression model with a higher prediction accuracy
+
+***
+
 [Amazon Fine Food Analysis using NLP](https://github.com/Hwarriach/NLP_Project.git)
 
 <img src="images/amazon.jpeg?raw=true"/>
