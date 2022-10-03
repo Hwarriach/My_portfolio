@@ -44,9 +44,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[World Happiness Score Prediction ](https://github.com/Hwarriach/Suicide_Rates_Prediction.git)
+[World Happiness Score Prediction ](https://github.com/Hwarriach/World_Happiness_Score.git)
 
-<img src="images/suicide.jpg?raw=true"/>
+<img src="images/worldhappiness.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Linear Regression, Auto ML, ARD Regression
 
