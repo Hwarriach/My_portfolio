@@ -78,7 +78,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/Hwarriach/Seol_Bike_Linear_Regression_Project.git)
+[Examining the effect of environmental factors and weather on bike rentals](https://github.com/Hwarriach/Seol_Bike_Linear_Regression_Project.git)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -92,6 +92,23 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Fit a multiple linear regression model with high prediction accuracy through iteration
+
+***
+
+[Potato leaf disease prediction](https://github.com/Hwarriach/Plant_Village_Prediction.git)
+
+<img src="images/seoul-bikes.jpeg?raw=true"/>
+
+- **Skills used:** Python, Pandas, Convolution Neural Network, Keras, Tensorflow
+
+- **Project Objective:** Build a CNN model that classifies images correctly into the correct classes (Healthy leaves, late blight leaves, early blight leaves).
+
+- **Quantifiable result:** We could classify the images with a % accuracy score.
+
+- Used Convolution Neural Network to build a model that will accurately classify potato leaf images
+- Modify number of layers to improve accuracy
+- Plot a loss curve to determine the correct amount of epochs to use
+
 
 ***
 
