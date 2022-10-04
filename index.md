@@ -97,11 +97,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Potato leaf disease prediction](https://github.com/Hwarriach/Plant_Village_Prediction.git)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/potatoleaf.jpg?raw=true"/>
 
 - **Skills used:** Python, Pandas, Convolution Neural Network, Keras, Tensorflow
 
-- **Project Objective:** Build a CNN model that classifies images correctly into the correct classes (Healthy leaves, late blight leaves, early blight leaves).
+- **Project Objective:** Build a CNN model that classifies images correctly into the correct classes (healthy leaves, late blight leaves, early blight leaves).
 
 - **Quantifiable result:** We could classify the images with a % accuracy score.
 
