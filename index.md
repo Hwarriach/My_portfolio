@@ -128,6 +128,21 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
+[Identifying fake news articles](https://github.com/Hwarriach/Portugal_Banking_Logistic_Regression.git)
+
+<img src="images/bank image.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, NLP, TF-IDF, Naive Bayes, BOW 
+
+**Project Objective:** Build a model to identify fake news articles.
+
+**Quantifiable result:** We can identify fake news articles with a 86% accuracy.
+
+- in this project we are given news articles and have to build and train a model to identify fake news articles.
+- Used NLP for this approach.
+
+***
+
 [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Hwarriach/Knn_Nb_Project.git)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
