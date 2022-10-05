@@ -128,7 +128,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying fake news articles](https://github.com/Hwarriach/Portugal_Banking_Logistic_Regression.git)
+[Identifying fake news articles](https://github.com/Hwarriach/Fake_News.git)
 
 <img src="images/fakenews.png?raw=true"/>
 
