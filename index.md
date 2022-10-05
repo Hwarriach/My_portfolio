@@ -130,7 +130,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Identifying fake news articles](https://github.com/Hwarriach/Portugal_Banking_Logistic_Regression.git)
 
-<img src="images/bank image.jpeg?raw=true"/>
+<img src="images/fakenews.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, NLP, TF-IDF, Naive Bayes, BOW 
 
