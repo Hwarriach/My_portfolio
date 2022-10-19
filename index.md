@@ -177,7 +177,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Coronoavirus Tweet Classification NLP](https://github.com/Hwarriach/Coronavirus-Tweets-.git)
 
-<img src="images/Mobile.jpeg?raw=true"/>
+<img src="images/1583952355.1997.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, TfidVectorizer
 
