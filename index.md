@@ -175,6 +175,22 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
+[Coronoavirus Tweet Classification NLP](https://github.com/Hwarriach/Coronavirus-Tweets-.git)
+
+<img src="images/Mobile.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, TfidVectorizer
+
+**Project Objective:** Given the tweets, classify the sentiments.
+
+**Quantifiable result:** Accuracy of 77%
+
+- Given a tweet, it is determined whether the sentiment is positive or negative.
+- Used NLP for this approach.
+- A sentiment of 1 or 2 could be considered negative, a sentiment of 4 or 5 could be considered positive and a review of 3 is nuetral and ignored.
+
+***
+
 [The San Francisco Project on Clustering](https://github.com/Hwarriach/KMeans.git)
 
 <img src="images/clusters.png?raw=true"/>
