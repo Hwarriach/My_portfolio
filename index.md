@@ -121,10 +121,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE .
+**Quantifiable result:** Using Logistic Regression, SMOTE, and RFE We could Classify the results with an 86% accuracy score.
 
-- in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
-- The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
 
 ***
 
